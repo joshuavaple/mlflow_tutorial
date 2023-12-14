@@ -1,0 +1,7 @@
+﻿CLASS_LABEL,CLASS_DESCRIPTION,CLASS_IMPORTANCE,RELEVANCE_CLASS
+Transportation Disruption,breaking news on major transportation disruption events,2,1
+Forced Labor,breaking news on forced labor and sweatshop,2,1
+Warning News,later follow-up reports of past transportation disruption event,1,0
+General News,"lawsuits, legal or insurance impact of past event",0,0
+General News,"general social, business, economic reports, studies and trends",0,0
+General News,other news or leisure news,0,0

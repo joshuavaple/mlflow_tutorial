@@ -13,3 +13,8 @@ torch==2.1.0
 # for fewshot learner
 setfit==0.7.0
 sentence-transformers==2.2.2
+
+# for visualization of dense venctors
+umap-learn==0.5.5
+matplotlib==3.7.4
+seaborn==0.13.0

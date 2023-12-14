@@ -1,3 +1,5 @@
 mlruns/
 venv/
 *archive*/
+models/
+mlflow_tutorial.egg-info/

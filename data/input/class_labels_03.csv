@@ -1,0 +1,10 @@
+﻿class_label,class_description,relevance_class
+Maritime Transportation,major maritime transportation disruption news,1
+Warehouse,warehouse and storage facilities disruption or destruction news,1
+Air Transportation,major air transportation disruption news,1
+Railway Transportation,major railway transportation disruption news,1
+Severe Weather,severe and extreme weather news ,1
+Worker Strike,major and large scale worker strike actions,1
+Small Scale Personal Anecdotes and Isolated Events,personal or small scale isolated event and news,0
+"General Economic and Business Studies, Statistics, and Reports","general social, business, economic reports, studies and trends",0
+Other News,other news,0

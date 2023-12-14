@@ -1,0 +1,97 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "URI": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "TOPIC": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "BODY_SUMMARY": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "CLASS_LABEL_general social, business, economic reports, studies and trends": {
+      "names": [
+        "0",
+        "1"
+      ],
+      "_type": "ClassLabel"
+    },
+    "CLASS_LABEL_later reports of past transportation disruption event, bad news": {
+      "names": [
+        "0",
+        "1"
+      ],
+      "_type": "ClassLabel"
+    },
+    "CLASS_LABEL_lawsuits, legal or insurance impact of past event, bad news": {
+      "names": [
+        "0",
+        "1"
+      ],
+      "_type": "ClassLabel"
+    },
+    "CLASS_LABEL_leisure or other news": {
+      "names": [
+        "0",
+        "1"
+      ],
+      "_type": "ClassLabel"
+    },
+    "CLASS_LABEL_very recent breaking news on forced labor and sweatshop": {
+      "names": [
+        "0",
+        "1"
+      ],
+      "_type": "ClassLabel"
+    },
+    "CLASS_LABEL_very recent breaking news on major air transportation or airport disruption, bad news": {
+      "names": [
+        "0",
+        "1"
+      ],
+      "_type": "ClassLabel"
+    },
+    "CLASS_LABEL_very recent breaking news on major and large scale worker strike actions causing disruption, bad news": {
+      "names": [
+        "0",
+        "1"
+      ],
+      "_type": "ClassLabel"
+    },
+    "CLASS_LABEL_very recent breaking news on major maritime transportation disruption, bad news": {
+      "names": [
+        "0",
+        "1"
+      ],
+      "_type": "ClassLabel"
+    },
+    "CLASS_LABEL_very recent breaking news on major railway transportation disruption, bad news": {
+      "names": [
+        "0",
+        "1"
+      ],
+      "_type": "ClassLabel"
+    },
+    "CLASS_LABEL_very recent breaking news on severe and extreme weather causing disruption, bad news ": {
+      "names": [
+        "0",
+        "1"
+      ],
+      "_type": "ClassLabel"
+    },
+    "CLASS_LABEL_very recent breaking news on warehouse and storage facilities disruption or destruction, bad news": {
+      "names": [
+        "0",
+        "1"
+      ],
+      "_type": "ClassLabel"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}

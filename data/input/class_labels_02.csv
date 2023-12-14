@@ -1,0 +1,10 @@
+﻿class_label,class_description,relevance_class
+Maritime Transportation,Maritime Transportation Disruption,1
+Warehouse,"The Warehouse, storage facilities, disruption",1
+Air Transportation,Air Transportation Disruption to the normal operation of air travel.,1
+Railway Transportation,Railway Transport Disruption that interrupt the normal operation of train transportation,1
+Severe Weather,"Severe Weather Transportation Disruption that can disrupt travel, delay schedules, or even lead to accidents.",1
+Worker Strike,Worker Strike pertains to worker strike actions that have the potential to disrupt supply chain businesses and transportation systems,1
+Small Scale Personal Anecdotes and Isolated Events,"Small Scale Personal Anecdotes and Isolated Events, covers personal anecdotes, narratives and isolated events that are often unique and don't have broad implications",0
+"General Economic and Business Studies, Statistics, and Reports","General Economic and Business Studies, Statistics, and Reports with mid-term and long-term focus",0
+Other News,other news,0

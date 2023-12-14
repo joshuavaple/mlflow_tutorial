@@ -1,0 +1,13 @@
+﻿CLASS_LABEL,CLASS_DESCRIPTION,CLASS_IMPORTANCE,RELEVANCE_CLASS
+Railway Transportation Disruption,"very recent breaking news on major railway transportation disruption, bad news",2,1
+Maritime Transportation Disruption,"very recent breaking news on major maritime transportation disruption, bad news",2,1
+Warehouse Disruption,"very recent breaking news on warehouse and storage facilities disruption or destruction, bad news",2,1
+Air Transportation Disruption,"very recent breaking news on major air transportation or airport disruption, bad news",2,1
+Extreme Weather Disruption,"very recent breaking news on severe and extreme weather causing disruption, bad news ",2,1
+Strike Action Disruption,"very recent breaking news on major and large scale worker strike actions causing disruption, bad news",2,1
+Cybersecurity Disruption,"very recent breaking news on major and large scale cyber attacks and security breaches, bad news",2,1
+Forced Labor,very recent breaking news on forced labor and sweatshop,2,1
+Warning News,"later reports of past transportation disruption event, bad news",1,0
+General News,"lawsuits, legal or insurance impact of past event, bad news",0,0
+General News,"general social, business, economic reports, studies and trends",0,0
+General News,leisure or other news,0,0
